@@ -9,7 +9,7 @@ A modern React shopping cart application with animated DarkVeil background.
 - Animated background effects
 
 ## Live Demo
-[View Live App]([https://your-project-name.vercel.app](https://faradumatin.github.io/ShopCart/))
+[View Live App](https://faradumatin.github.io/ShopCart/)
 
 ## Technologies
 - React 19
