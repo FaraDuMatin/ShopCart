@@ -10,7 +10,7 @@ import DarkVeil from "./components/Darkveil";
 function App() {
   return (
     <CartProvider>
-      <Router>
+      <Router basename="/ShopCart">
         <div className="App">
           <DarkVeil hueShift={24}/>
           <div className="app-content">
